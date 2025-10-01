@@ -1,0 +1,8 @@
+{
+  "name": "wedding-assistant-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.55.0"
+  }
+}
